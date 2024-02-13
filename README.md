@@ -1,8 +1,7 @@
-# DF
-데이터 분석 소모임 DF
+# 데이터 분석 소모임 DF
 
 ### 1st project (2023.03.23 ~ 2023.04.13)
-**[머신러닝 모델을 활용한 imdb_votes 예측](https://github.com/dduniverse/DF/blob/main/1st%20project/DF4%EC%A1%B0_%EC%B5%9C%EC%A2%85.pdf)**
+**머신러닝 모델을 활용한 imdb_votes 예측**
 - 4인 팀(팀원)
 - 데이터: [kaggle Netflix Movies and TV Shows](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows)
 - 1차 목표
@@ -10,6 +9,11 @@
 - 2차 목표
   - 선형, 비선형, 앙상블 모형을 활용한 imdb_votes 예측 모델링
 
+#### [발표 자료](https://github.com/dduniverse/DF/blob/main/1st%20project/DF4%EC%A1%B0_%EC%B5%9C%EC%A2%85.pdf)
+![image](https://github.com/dduniverse/DF/assets/101264299/6343ee35-b537-4b03-b618-ae2ebd9dfc16)
+
+
+<br>
 
 
 ### 2nd project (2023.05.04 ~ 2023.06.01)
@@ -24,4 +28,8 @@
   - 리뷰 크롤링을 통한 워드 클라우드
 - 3차 목표
   - 리뷰 데이터 감성분석
+ 
+#### [발표 자료](https://github.com/dduniverse/DF/blob/main/2nd%20project/DF-%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+![image](https://github.com/dduniverse/DF/assets/101264299/f169c9bc-151a-46b9-8036-3c7239df0aaf)
+
 
