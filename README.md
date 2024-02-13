@@ -2,7 +2,7 @@
 데이터 분석 소모임 DF
 
 ### 1st project (2023.03.23 ~ 2023.04.13)
-**머신러닝 모델을 활용한 imdb_votes 예측**
+**[머신러닝 모델을 활용한 imdb_votes 예측](https://github.com/dduniverse/DF/blob/main/1st%20project/DF4%EC%A1%B0_%EC%B5%9C%EC%A2%85.pdf)**
 - 4인 팀(팀원)
 - 데이터: [kaggle Netflix Movies and TV Shows](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows)
 - 1차 목표
@@ -13,7 +13,7 @@
 
 
 ### 2nd project (2023.05.04 ~ 2023.06.01)
-**전주시 한옥 숙소 리뷰 감성 분석**
+**[전주시 한옥 숙소 리뷰 감성 분석](https://github.com/dduniverse/DF/blob/main/2nd%20project/DF-%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)**
 - 4인 팀(팀장)
 - 데이터: [한국관광 데이터랩 네비게이션 검색 순위](https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do)(2018년~2022년)
 - 1차 목표
